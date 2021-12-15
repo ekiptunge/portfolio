@@ -6,11 +6,11 @@ img {
 body {
     margin: 6pc;
     font-size: x-large;
+    background-image: url("IMAGE/background.jpg");
 }
 .text-box {
     border: 2px solid black;
     padding: 6px;
     margin: 20px;
     padding-top: 10px;
-    background-color:aqua;
 }
