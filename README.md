@@ -4,7 +4,7 @@
 ## Description
 The page shall enable viewers to have a full view of my work and competence
 ## Setup/Installation Requirements
-Available on Github page:  https://ekiptunge.github.io/portfolio/
+Available on Github page:   https://ekiptunge.github.io/portfolio/
 It can run on any browser.
 ## Known Bugs
 It doesnot have bags. Reach out to me incase of any bags.
