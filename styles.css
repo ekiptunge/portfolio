@@ -1,7 +1,7 @@
 img {
     float: left;
     width: 220px;
-    height: 200px;
+    height:250px;
 }
 body {
     margin: 6pc;
@@ -13,4 +13,5 @@ body {
     padding: 6px;
     margin: 20px;
     padding-top: 10px;
+    background-color: whitesmoke;
 }
